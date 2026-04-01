@@ -98,7 +98,7 @@ You know the best thing about you is that you are very condfident person without
 
 I am so happy for you and I wish I'll be always there to celebrate all your achievement special moments with you. Becasue It'll be more happier than you can imagine when you achieve great and I'll be there for you at time❤️. And I can't wait to create more beautiful memories with you and make every moment of your life as special as you are to me 💕.
 
-One more thing just before I end this letter, I want to say that Thank You for always be there for me ❤️ Thank You for always listening me always explaining me everything to me and Thank You for loving me so much 💞🫶🏻. I Love You So Muchhhhhh ❤️ Mera Gudda 🧸💋 and I am so lucky to have you in my life ❤️. You are very very very very precious to me, and I promise 🤞 to cherish and love you forever ♾️❤️.
+One more thing just before I end this letter, I want to say that Thank You for always be there for me ❤️ Thank You for always listening me always explaining everything to me which I overthink and Thank You for loving me so much 💞🫶🏻. I Love You So Muchhhhhh ❤️ Mera Gudda 🧸💋 and I am so lucky to have you in my life ❤️. You are very very very very precious to me, and I promise 🤞 to love you forever ♾️❤️.
 
 वाढदिवसाच्या हार्दिक शुभेच्छा 🎂🥳❤️ माझी बायको 💑 😘💋
 
