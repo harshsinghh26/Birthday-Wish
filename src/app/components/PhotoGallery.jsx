@@ -56,7 +56,7 @@ export default function PhotoGallery({ onNext }) {
           }}
           pagination={true}
           modules={[EffectCube, Pagination]}
-          className="mySwiper h-[350px] md:h-[450px]" // adjust height as needed
+          className="mySwiper h-[350px] md:h-[450px]"
         >
           {photos.map((photo, index) => (
             <SwiperSlide key={photo.id}>

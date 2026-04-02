@@ -1,14 +1,7 @@
-// Your Birthday Date (Format: yyyy-mm-ddTHH:MM:SS)
 export const BIRTHDAY_DATE = "2025-07-18T00:00:00";
 
-// Add recipient's name here.
 export const NAME = "Faguniyaaaaaaaaa ";
 
-// Special Messages Screen
-// You can edit each card from here.
-// - "title" is optional, if you don’t want it, just remove it.
-// - "showIcon" is true to show icon, false to hide it.
-// - You can change the "color" and "message" as you like.
 export const messages = [
   {
     id: 1,
@@ -45,17 +38,12 @@ export const messages = [
 ];
 
 // Photo Gallery Screen
-// Heading text for the Photo Gallery section (displayed at the top)
+
 export const photoScreenHeading = "Moments With You";
 
-// Subheading text for the Photo Gallery section (optional - you can remove or leave it blank if not needed)
 export const photoScreenSubHeading =
   "Beautiful moments with my beautiful and adorable Baaikoooo 😍💕";
 
-// List of photo objects to display in the gallery
-// - Add more photos by copying the same line and changing the id and src
-// - Make sure each id is unique and the src points to a valid image path
-// Make sure all image files are placed in the `/public/images/` folder
 export const photos = [
   { id: 1, src: "/images/1.jpeg" },
   { id: 2, src: "/images/2.jpeg" },
@@ -81,15 +69,11 @@ export const photos = [
 ];
 
 // Letter Screen
-// Main heading for the letter screen
 export const letterScreenHeading = "A Special Letter";
 
-// Optional subheading for the letter screen
-// If you don't want any subheading, just leave it blank like this: ""
 export const letterScreenSubHeading =
   "Just for you my favourite and special one, on your special day 💌";
 
-// Actual letter content to display on the screen
 export const letterText = `My Dearest Faguniyaa Jii 💕,
 
 Firstly A very very very very veryyyyyyy Happpyyyy Birthdayyyyy 🎉🎂💖 My Love 💕, My Wifeee 💑, My Guddaa 🧸💋. On this very special day ✨, I want you to know how incredibly grateful I am to have you in my life. Your birthday isn't just a celebration for me - it's a celebration of all the Love ❤️, laughter, Happiness and beautiful memories you bring into my Life. You are not just my love, but also my best friend, my confidant, and my biggest supporter 🫂❤️.
@@ -119,5 +103,4 @@ Forever Yours 💕
 तुमचा नवरा 💖`;
 
 // Background Music file path
-// Place your .mp3 file inside the "public/audio" folder and give the path like below.
 export const backgroundMusic = "/audio/bg.mp3";

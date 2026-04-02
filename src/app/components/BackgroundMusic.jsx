@@ -16,7 +16,6 @@ export default function BackgroundMusic({ shouldPlay }) {
   return (
     <audio ref={audioRef} loop preload="auto" className="hidden">
       <source src={backgroundMusic} type="audio/wav" />
-      {/* Fallback for browsers that don't support the audio element */}
     </audio>
   );
 }

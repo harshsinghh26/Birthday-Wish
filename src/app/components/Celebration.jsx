@@ -41,7 +41,7 @@ export default function Celebration({ onNext, onMusicStart }) {
       spread: 90,
       origin: { y: 0.6 },
       colors: colors,
-      scalar: 1.2, // thoda bada particles
+      scalar: 1.2,
     });
 
     setTimeout(() => {

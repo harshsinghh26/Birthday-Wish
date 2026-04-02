@@ -53,7 +53,6 @@ export default function BirthdayApp() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-950/30 via-black to-purple-950/30 overflow-hidden relative">
-      {/* Radial gradients for background */}
       <div
         className="fixed inset-0 z-0 blur-[120px] opacity-20"
         style={{
@@ -78,7 +77,6 @@ export default function BirthdayApp() {
         }}
       />
 
-      {/* Consistent background animation for ALL screens */}
       <BackgroundAnimation />
       <AnimatePresence mode="wait">
         {isLoading ? (
@@ -92,18 +90,6 @@ export default function BirthdayApp() {
           </>
         )}
       </AnimatePresence>
-
-      {/* Watermark */}
-      {/* <motion.div
-        initial={{ x: 100, opacity: 0 }}
-        animate={{ x: 0, opacity: 1 }}
-        transition={{
-          duration: 1,
-          delay: 1,
-        }}
-        className="fixed bottom-4 right-4 text-[13px] text-white/40 pointer-events-none z-50 font-light">
-        @anujbuilds
-      </motion.div> */}
     </div>
   );
 }
